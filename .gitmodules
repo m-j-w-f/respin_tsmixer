@@ -1,0 +1,3 @@
+[submodule "externals/respinow-ml"]
+	path = externals/respinow_ml
+	url = git@github.com:dwolffram/RESPINOW-ML.git
